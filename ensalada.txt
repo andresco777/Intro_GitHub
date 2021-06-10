@@ -5,3 +5,5 @@ La ensalada de vegetales consta de los siguientes ingredientes:
 Tomate
 Lechuga
 Zahoria
+Las ensaladas de frutas van compuestas por frutas como puede ser manzana,
+banano, papaya, fresas, adicionalemnte se le hecha queso
