@@ -1,1 +1,7 @@
 Ensalada de Frutas
+
+La ensalada de vegetales consta de los siguientes ingredientes:
+
+Tomate
+Lechuga
+Zahoria
